@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Implementation-Title: Restrain
+Implementation-Version: 0.1
+Vaadin-Package-Version: 1
+Class-Path: 
+Vaadin-Widgetsets: org.vaadin.jouni.restrain.RestrainWidgetset
+
