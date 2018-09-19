@@ -1,3 +1,6 @@
+[![Published on Vaadin  Directory](https://img.shields.io/badge/Vaadin%20Directory-published-00b4f0.svg)](https://vaadin.com/directory/component/restrain)
+[![Stars on Vaadin Directory](https://img.shields.io/vaadin-directory/star/restrain.svg)](https://vaadin.com/directory/component/restrain)
+
 ## Restrain add-on
 
 The standard Vaadin component API only let's you specify the width and height of them, but not minimum or maximum width and height.
